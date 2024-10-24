@@ -1,0 +1,450 @@
+﻿visit_id,patient_id,visit_date,doctor_name,reason_for_visit,diagnosis,medication_prescribed,smoker_status
+10072,521001,3/30/23,Dr. Lee,Annual physical,Diabetes,Insulin,Y
+10244,521001,1/5/24,Dr. Smith,Checkup,Diabetes,Insulin,Y
+10417,521001,9/30/24,Dr. Lee,Diabetes check,Diabetes,Insulin,Y
+10437,521001,11/5/24,Dr. Martinez,Back pain,Muscle Injury,Ibuprofen,Y
+10079,521002,4/5/23,Dr. Johnson,Annual physical,Hypertension,Metoprolol,Y
+10269,521002,2/10/24,Dr. Johnson,Back pain,,Ibuprofen,Y
+10456,521002,12/10/24,Dr. Lee,Diet and Exercise Counseling,Diabetes,Metformin,Y
+10034,521003,1/15/23,Dr. Green,Annual physical,Hypertension,Lisinopril,N
+10107,521003,5/10/23,Dr. Rodriguez,Back pain,,,N
+10050,521004,2/20/23,Dr. Hernandez,Annual physical,Diabetes,Insulin,Y
+10119,521004,6/15/23,Dr. Hernandez,Medication Adjustment,Diabetes,Insulin,Y
+10315,521004,4/20/24,Dr. Hernandez,Hypertension,Hypertension,,Y
+10460,521004,12/15/24,Dr. Hernandez,Diabetes check,Diabetes,Insulin,Y
+10037,521005,1/20/23,Dr. Wilson,Hypertension,Hypertension,Lisinopril,N
+10069,521005,3/25/23,Dr. Hernandez,Checkup,,,N
+10134,521005,7/20/23,Dr. Wilson,Headache,Migraine,Ibuprofen,N
+10340,521005,5/25/24,Dr. Wilson,Medication Adjustment,Diabetes,Insulin,N
+10052,521006,2/25/23,Dr. Green,Annual physical,,,N
+10100,521006,4/30/23,Dr. Green,Fever,,Acetaminophen,N
+10162,521006,8/25/23,Dr. Green,Annual physical,Hyperlipidemia,Acetaminophen,N
+10362,521006,6/30/24,Dr. Taylor,Fever,,Acetaminophen,N
+10073,521007,3/30/23,Dr. Clark,Checkup,,,N
+10104,521007,5/5/23,Dr. Clark,Checkup,Respiratory infection,Amoxicillin,N
+10181,521007,9/30/23,Dr. Clark,Checkup,,,N
+10367,521007,7/10/24,Dr. Clark,Checkup,,,N
+10080,521008,4/5/23,Dr. Anderson,Fever,,Acetaminophen,N
+10118,521008,6/10/23,Dr. Anderson,Hypertension,Hypertension,Lisinopril,N
+10188,521008,10/5/23,Dr. Anderson,Fever,,Acetaminophen,N
+10393,521008,8/15/24,Dr. Anderson,Hyperlipidemia check,Hyperlipidemia,Statin,N
+10108,521009,5/10/23,Dr. Taylor,Diabetes check,Diabetes,Insulin,Y
+10130,521009,7/15/23,Dr. Clark,Annual physical,Respiratory Illness,Fluticasone,Y
+10207,521009,11/10/23,Dr. Taylor,Diabetes check,Diabetes,Metformin,Y
+10409,521009,9/20/24,Dr. Lopez,Checkup,,Metformin,Y
+10120,521010,6/15/23,Dr. White,Checkup,Hypertension,,Y
+10230,521010,12/15/23,Dr. White,Hypertension,Hypertension,Lisinopril,Y
+10422,521010,10/5/24,Dr. Anderson,Knee pain,,Ibuprofen,Y
+10038,521011,1/20/23,Dr. Johnson,Headache,Migraine,Paracetamol,Y
+10135,521011,7/20/23,Dr. Johnson,Annual physical,Diabetes,Insulin,Y
+10251,521011,1/20/24,Dr. Johnson,Annual physical,,,Y
+10441,521011,11/10/24,Dr. Johnson,Diabetes check,Diabetes,Insulin,Y
+10053,521012,2/25/23,Dr. Lopez,Diabetes check,,,Y
+10163,521012,8/25/23,Dr. Lopez,Checkup,,,Y
+10278,521012,2/25/24,Dr. Rodriguez,Checkup,,,Y
+10461,521012,12/15/24,Dr. Lopez,Checkup,Mild Concussion,Paracetamol,Y
+10039,521013,1/20/23,Dr. Scott,Fever,,Paracetamol,N
+10074,521013,3/30/23,Dr. Rodriguez,Back pain,,Diclofenac,N
+10252,521013,1/20/24,Dr. Scott,Hypertension,Hypertension,Lisinopril,N
+10081,521014,4/5/23,Dr. Taylor,Diet and Exercise Counseling,Hypertension,,N
+10189,521014,10/5/23,Dr. Smith,Annual physical,Diabetes,,N
+10279,521014,2/25/24,Dr. Smith,Hyperlipidemia check,Hyperlipidemia,Statin,N
+10302,521014,4/5/24,Dr. Smith,Medication Adjustment,Diabetes,Insulin,N
+10109,521015,5/10/23,Dr. King,Annual physical,,,N
+10208,521015,11/10/23,Dr. Johnson,Hypertension,Hypertension,Lisinopril,N
+10285,521015,3/10/24,Dr. King,Annual physical,,,N
+10329,521015,5/10/24,Dr. King,Hypertension,Hypertension,Metoprolol,N
+10121,521016,6/15/23,Dr. Hernandez,Checkup,,,N
+10231,521016,12/15/23,Dr. Martinez,Annual physical,,,N
+10311,521016,4/15/24,Dr. Martinez,Back pain,,Ibuprofen,N
+10350,521016,6/15/24,Dr. Martinez,Annual physical,,,N
+10136,521017,7/20/23,Dr. Lee,Fever,,Acetaminophen,N
+10253,521017,1/20/24,Dr. Lee,Checkup,,,N
+10336,521017,5/20/24,Dr. Lee,Fever,,Amoxicillin,N
+10373,521017,7/20/24,Dr. Lee,Checkup,,,N
+10164,521018,8/25/23,Dr. Brown,Diabetes check,,,N
+10280,521018,2/25/24,Dr. Brown,Fever,,Acetaminophen,N
+10357,521018,6/25/24,Dr. King,Headache,,,N
+10399,521018,8/25/24,Dr. Brown,Fever,Respiratory Illness,Acetaminophen,N
+10182,521019,9/30/23,Dr. Smith,Fever,Respiratory infection,Amoxicillin,N
+10295,521019,3/30/24,Dr. Rodriguez,Diabetes check,Diabetes,Metformin,N
+10380,521019,7/30/24,Dr. Rodriguez,Annual physical,Hypertension,,N
+10418,521019,9/30/24,Dr. Rodriguez,Diabetes check,Diabetes,Metformin,N
+10190,521020,10/5/23,Dr. Johnson,Checkup,,,N
+10303,521020,4/5/24,Dr. Hernandez,Hypertension,Hypertension,Lisinopril,N
+10384,521020,8/5/24,Dr. Johnson,Annual physical,,,N
+10423,521020,10/5/24,Dr. Johnson,Back pain,,,N
+10209,521021,11/10/23,Dr. Wilson,Back pain,,,N
+10248,521021,1/15/24,Dr. Wilson,Headache,Migraine,Paracetamol,N
+10249,521021,1/15/24,Dr. Wilson,Headache,Respiratory Illness,Paracetamol,N
+10330,521021,5/10/24,Dr. Wilson,Annual physical,Diabetes,Metformin,N
+10442,521021,11/10/24,Dr. Wilson,Annual physical,Hypothyroid,Levoxyl,N
+10232,521022,12/15/23,Dr. Lee,Checkup,,,N
+10274,521022,2/20/24,Dr. Rodriguez,Checkup,Respiratory infection,Acetaminophen,N
+10351,521022,6/15/24,Dr. Lopez,Checkup,,,N
+10462,521022,12/15/24,Dr. Lopez,Checkup,,,N
+10040,521023,1/20/23,Dr. Anderson,Back pain,,,N
+10214,521023,11/15/23,Dr. Anderson,Fever,,,N
+10292,521023,3/25/24,Dr. Anderson,Diet and Exercise Counseling,Hyperlipidemia,,N
+10374,521023,7/20/24,Dr. Anderson,Back pain,Muscle Injury,Ibuprofen,N
+10054,521024,2/25/23,Dr. White,Diabetes check,Diabetes,Insulin,N
+10218,521024,11/30/23,Dr. White,Diet and Exercise Counseling,Diabetes,Metformin,N
+10281,521024,2/25/24,Dr. White,Annual physical,Hypertension,,N
+10321,521024,4/30/24,Dr. Taylor,Hypertension,Hypertension,,N
+10372,521024,7/18/24,Dr. Taylor,Fever,,,N
+10400,521024,8/25/24,Dr. Taylor,Diabetes check,,,N
+10075,521025,3/30/23,Dr. Brown,Medication Adjustment,Hypertension,Metoprolol,N
+10271,521025,2/18/24,Dr. Hernandez,Checkup,Muscle Injury,Diclofenac,N
+10296,521025,3/30/24,Dr. Hernandez,Checkup,,,N
+10327,521025,5/5/24,Dr. Hernandez,Diet and Exercise Counseling,,,N
+10419,521025,9/30/24,Dr. Anderson,Hypertension,Hypertension,Lisinopril,N
+10453,521025,12/7/24,Dr. Rodriguez,Checkup,,,N
+10474,521025,12/31/24,Dr. Hernandez,Checkup,Muscle Injury,Ibuprofen,N
+10058,521026,2/28/23,Dr. Lopez,Diet and Exercise Counseling,,,N
+10268,521026,2/9/24,Dr. Lopez,Hyperlipidemia check,,,N
+10304,521026,4/5/24,Dr. Rodriguez,Fever,,Acetaminophen,N
+10341,521026,5/31/24,Dr. Lopez,Knee pain,Muscle Injury,Diclofenac,N
+10342,521026,6/10/24,Dr. Lopez,Checkup,,,N
+10376,521026,7/20/24,Dr. Lopez,Headache,Migraine,Paracetamol,N
+10377,521026,7/20/24,Dr. Lopez,Hypertension,,,N
+10424,521026,10/5/24,Dr. Lopez,Annual physical,,,N
+10064,521027,3/15/23,Dr. Wilson,Knee pain,,,Y
+10110,521027,5/10/23,Dr. Wilson,Annual physical,Hypothyroid,,Y
+10153,521027,8/11/23,Dr. Lee,Headache,,,Y
+10290,521027,3/24/24,Dr. Wilson,Knee pain,,,Y
+10331,521027,5/10/24,Dr. Wilson,Checkup,Diabetes,,Y
+10371,521027,7/15/24,Dr. Wilson,Fever,Respiratory Illness,Acetaminophen,Y
+10427,521027,10/10/24,Dr. Wilson,Diabetes check,,,Y
+10440,521027,11/8/24,Dr. Wilson,Annual physical,,,Y
+10443,521027,11/10/24,Dr. Wilson,Diet and Exercise Counseling,,,Y
+10116,521028,5/29/23,Dr. Martinez,Fever,,,N
+10122,521028,6/15/23,Dr. Martinez,Annual physical,,Acetaminophen,N
+10227,521028,12/6/23,Dr. Martinez,Checkup,Muscle Injury,Diclofenac,N
+10282,521028,2/28/24,Dr. Martinez,Back pain,,,N
+10352,521028,6/15/24,Dr. Brown,Hypertension,Hypertension,Lisinopril,N
+10396,521028,8/20/24,Dr. Brown,Medication Adjustment,Diabetes,Metformin,N
+10463,521028,12/15/24,Dr. Brown,Fever,Respiratory infection,Amoxicillin,N
+10041,521029,1/20/23,Dr. Clark,Diabetes check,Diabetes,Metformin,N
+10219,521029,11/30/23,Dr. Clark,Hypertension,,,N
+10250,521029,1/19/24,Dr. Clark,Annual physical,,,N
+10260,521029,1/30/24,Dr. Hernandez,Diet and Exercise Counseling,,,N
+10261,521029,2/1/24,Dr. Clark,Diabetes check,,,N
+10375,521029,7/20/24,Dr. Clark,Annual physical,,,N
+10412,521029,9/25/24,Dr. Clark,Fever,,Paracetamol,N
+10047,521030,2/11/23,Dr. Johnson,Checkup,Allergic Reaction,Antihistamines,N
+10055,521030,2/25/23,Dr. Green,Checkup,,,N
+10165,521030,8/25/23,Dr. Green,Hypertension,Hypertension,,N
+10234,521030,12/19/23,Dr. Johnson,Medication Adjustment,,,N
+10401,521030,8/25/24,Dr. Green,Back pain,,Ibuprofen,N
+10435,521030,10/30/24,Dr. Johnson,Annual physical,,,N
+10447,521030,11/14/24,Dr. Green,Diabetes check,,,N
+10082,521031,4/5/23,Dr. Martinez,Annual physical,,,Y
+10150,521031,8/2/23,Dr. Martinez,Checkup,,,Y
+10183,521031,9/30/23,Dr. Rodriguez,Medication Adjustment,Diabetes,Insulin,Y
+10222,521031,12/2/23,Dr. Martinez,Hypertension,,,Y
+10254,521031,1/26/24,Dr. Martinez,Knee pain,,,Y
+10115,521032,5/21/23,Dr. Lee,Diet and Exercise Counseling,,,N
+10137,521032,7/20/23,Dr. Brown,Diabetes check,Diabetes,Metformin,N
+10171,521032,9/11/23,Dr. Lee,Back pain,,Ibuprofen,N
+10286,521032,3/10/24,Dr. Lee,Fever,Common Cold,Cough Syrup,N
+10288,521032,3/15/24,Dr. Brown,Headache,,Paracetamol,N
+10297,521032,3/30/24,Dr. Brown,Back pain,,,N
+10338,521032,5/22/24,Dr. Lee,Headache,Migraine,,N
+10405,521032,9/6/24,Dr. Lee,Checkup,Respiratory Illness,Fluticasone,N
+10444,521032,11/10/24,Dr. Lee,Back pain,,,N
+10126,521033,6/28/23,Dr. Taylor,Headache,Respiratory Illness,Ibuprofen,Y
+10291,521033,3/24/24,Dr. Taylor,Hyperlipidemia check,,,Y
+10332,521033,5/10/24,Dr. Rodriguez,Diabetes check,Diabetes,Metformin,Y
+10385,521033,8/8/24,Dr. Clark,Knee pain,,,Y
+10402,521033,8/27/24,Dr. Taylor,Fever,Respiratory Illness,Salbutamol,Y
+10381,521034,8/1/24,Dr. Martinez,Diabetes check,Diabetes,Insulin,N
+10394,521034,8/16/24,Dr. Martinez,Annual physical,,,N
+10445,521034,11/10/24,Dr. Martinez,Checkup,,,N
+10451,521034,11/23/24,Dr. Martinez,Checkup,Allergic Reaction,Antihistamines,N
+10454,521034,12/7/24,Dr. Martinez,Back pain,,,N
+10092,521035,4/20/23,Dr. Smith,Back pain,,,N
+10114,521035,5/17/23,Dr. Anderson,Hypertension,,,N
+10127,521035,7/2/23,Dr. Anderson,Headache,Common Cold,,N
+10140,521035,7/23/23,Dr. Anderson,Fever,,,N
+10413,521035,9/27/24,Dr. Anderson,Headache,Common Cold,Ibuprofen,N
+10147,521036,7/27/23,Dr. Lopez,Annual physical,Ear Infection,Amoxicillin,N
+10192,521036,10/9/23,Dr. Lopez,Checkup,Bronchiolitis,Inhalation Salbutamol,N
+10235,521036,12/21/23,Dr. Lopez,Medication Adjustment,Bronchiolitis,Nebulized Epinephrine,N
+10272,521036,2/18/24,Dr. Lopez,Checkup,,,N
+10386,521036,8/8/24,Dr. Lopez,Medication Adjustment,Common Cold,,N
+10078,521037,4/3/23,Dr. Scott,Medication Adjustment,,,N
+10211,521037,11/13/23,Dr. Scott,Fever,,,N
+10270,521037,2/11/24,Dr. Scott,Checkup,,,N
+10294,521037,3/29/24,Dr. Green,Back pain,,,N
+10334,521037,5/16/24,Dr. Taylor,Knee pain,Muscle Injury,Diclofenac,N
+10105,521038,5/8/23,Dr. Brown,Diabetes check,,,N
+10173,521038,9/24/23,Dr. King,Annual physical,,,N
+10184,521038,9/30/23,Dr. Brown,Hypertension,,,N
+10199,521038,10/27/23,Dr. Brown,Fever,Common Cold,Amoxicillin,N
+10343,521038,6/10/24,Dr. Brown,Medication Adjustment,,,N
+10059,521039,3/9/23,Dr. King,Fever,,,N
+10138,521039,7/21/23,Dr. Rodriguez,Back pain,Muscle Injury,Paracetamol,N
+10191,521039,10/6/23,Dr. King,Fever,Common Cold,Cough Syrup,N
+10206,521039,11/9/23,Dr. King,Hyperlipidemia check,Hyperlipidemia,,N
+10257,521039,1/28/24,Dr. King,Annual physical,,,N
+10243,521040,1/3/24,Dr. Lee,Fever,,,N
+10276,521040,2/24/24,Dr. Lee,Annual physical,,,N
+10426,521040,10/8/24,Dr. Lee,Checkup,Food Poisoning,Loperamide,N
+10056,521041,2/26/23,Dr. Green,Fever,,,N
+10215,521041,11/24/23,Dr. Green,Headache,Migraine,Paracetamol,N
+10356,521041,6/23/24,Dr. Green,Fever,Allergic Reaction,Antihistamines,N
+10043,521042,1/30/23,Dr. Lopez,Checkup,,,N
+10154,521042,8/13/23,Dr. Rodriguez,Cough and cold symptoms,Common Cold,Nasal Decongestant,N
+10255,521042,1/26/24,Dr. Lopez,Annual physical,,,N
+10333,521042,5/12/24,Dr. Lopez,Cough and cold symptoms,Common Cold,Cough Syrup,N
+10465,521042,12/20/24,Dr. Lopez,Checkup,Strep Throat,Penicillin,N
+10067,521043,3/19/23,Dr. Martinez,Knee pain,,Ibuprofen,N
+10076,521043,4/1/23,Dr. Martinez,Back pain,,,N
+10216,521043,11/26/23,Dr. Martinez,Hypertension,,,N
+10406,521043,9/6/24,Dr. Martinez,Diabetes check,,,N
+10410,521043,9/21/24,Dr. Martinez,Fever,Respiratory Illness,Fluticasone,N
+10446,521043,11/12/24,Dr. Martinez,Knee pain,,,N
+10113,521044,5/15/23,Dr. Green,Fever,Respiratory Illness,,N
+10266,521044,2/5/24,Dr. Green,Hypertension,Hypertension,,N
+10457,521044,12/12/24,Dr. Green,Hypertension,,,N
+10475,521044,12/31/24,Dr. Green,Fever,Respiratory Illness,Fluticasone,N
+10316,521045,4/25/24,Dr. King,Diabetes check,Diabetes,Insulin,N
+10358,521045,6/25/24,Dr. King,Back pain,,,N
+10382,521045,8/1/24,Dr. King,Fever,,,N
+10397,521045,8/20/24,Dr. King,Knee pain,Muscle Injury,Ibuprofen,N
+10467,521045,12/22/24,Dr. King,Diabetes check,,,N
+10088,521046,4/15/23,Dr. Clark,Knee pain,Muscle Injury,,N
+10204,521046,11/5/23,Dr. Clark,Diet and Exercise Counseling,,,N
+10223,521046,12/2/23,Dr. Clark,Back pain,Muscle Injury,Acetaminophen,N
+10448,521046,11/14/24,Dr. Clark,Fever,,,N
+10452,521046,11/23/24,Dr. Clark,Annual physical,,,N
+10035,521047,1/17/23,Dr. Wilson,Diabetes check,,,N
+10174,521047,9/24/23,Dr. Wilson,Knee pain,,,N
+10344,521047,6/10/24,Dr. Wilson,Hypertension,,,N
+10364,521047,7/5/24,Dr. Rodriguez,Headache,,,N
+10429,521047,10/18/24,Dr. Wilson,Diet and Exercise Counseling,,,N
+10049,521048,2/14/23,Dr. Johnson,Hyperlipidemia check,,,N
+10390,521048,8/14/24,Dr. Johnson,Hyperlipidemia check,,,N
+10466,521048,12/20/24,Dr. Green,Checkup,,,N
+10469,521048,12/24/24,Dr. Johnson,Diabetes check,,,N
+10473,521048,12/28/24,Dr. Johnson,Diet and Exercise Counseling,,,N
+10051,521049,2/24/23,Dr. Anderson,Hypertension,,,N
+10177,521049,9/26/23,Dr. Anderson,Fever,Respiratory Illness,Salbutamol,N
+10201,521049,11/3/23,Dr. Anderson,Headache,Migraine,Ibuprofen,N
+10317,521049,4/27/24,Dr. Brown,Medication Adjustment,Diabetes,Metformin,N
+10346,521049,6/12/24,Dr. Brown,Fever,,,N
+10195,521050,10/11/23,Dr. Lopez,Checkup,,,N
+10205,521050,11/5/23,Dr. Rodriguez,Checkup,Ear Infection,Ibuprofen,N
+10262,521050,2/1/24,Dr. Lopez,Checkup,Gastroenteritis,Rehydration Salts,N
+10312,521050,4/16/24,Dr. Lopez,Checkup,,,N
+10328,521050,5/7/24,Dr. Lopez,Headache,Common Cold,Cough Syrup,N
+10085,521051,4/11/23,Dr. Martinez,Knee pain,,,N
+10111,521051,5/11/23,Dr. Martinez,Back pain,,,N
+10275,521051,2/20/24,Dr. Martinez,Diabetes check,,,N
+10308,521051,4/14/24,Dr. King,Knee pain,,,N
+10383,521051,8/1/24,Dr. Martinez,Annual physical,,,N
+10468,521051,12/22/24,Dr. King,Hypertension,Hypertension,,N
+10197,521052,10/17/23,Dr. Green,Fever,Common Cold,Cough Syrup,N
+10391,521052,8/14/24,Dr. Green,Checkup,,,N
+10398,521052,8/20/24,Dr. Green,Fever,,,N
+10425,521052,10/5/24,Dr. Green,Annual physical,,,N
+10102,521053,5/2/23,Dr. Lee,Back pain,Mild Concussion,Paracetamol,N
+10123,521053,6/17/23,Dr. Lee,Headache,,,N
+10139,521053,7/21/23,Dr. Lee,Fever,,,N
+10170,521053,9/9/23,Dr. Lee,Back pain,,,N
+10175,521053,9/24/23,Dr. Lee,Medication Adjustment,Diabetes,Metformin,N
+10068,521054,3/21/23,Dr. Clark,Checkup,,,N
+10166,521054,8/30/23,Dr. Clark,Diabetes check,,,N
+10228,521054,12/6/23,Dr. Clark,Diet and Exercise Counseling,,,N
+10236,521054,12/21/23,Dr. Clark,Headache,,,N
+10395,521054,8/16/24,Dr. Clark,Checkup,,,N
+10258,521055,1/28/24,Dr. Johnson,Diabetes check,,,N
+10322,521055,5/1/24,Dr. Johnson,Hyperlipidemia check,,,N
+10403,521055,8/27/24,Dr. Johnson,Annual physical,,,N
+10432,521055,10/24/24,Dr. Johnson,Diabetes check,,Insulin,N
+10455,521055,12/7/24,Dr. Johnson,Hypertension,,,N
+10178,521056,9/26/23,Dr. Green,Fever,Respiratory Illness,Fluticasone,N
+10202,521056,11/3/23,Dr. Green,Diabetes check,Respiratory Illness,Salbutamol,N
+10263,521056,2/1/24,Dr. Green,Back pain,,,N
+10359,521056,6/25/24,Dr. Green,Headache,Respiratory Illness,Amoxicillin,N
+10361,521056,6/29/24,Dr. Rodriguez,Medication Adjustment,Respiratory Illness,Fluticasone,N
+10378,521056,7/20/24,Dr. Green,Hyperlipidemia check,,,N
+10414,521056,9/27/24,Dr. Clark,Knee pain,Muscle Injury,Ibuprofen,N
+10273,521057,2/18/24,Dr. Green,Hypertension,,,N
+10318,521057,4/27/24,Dr. Green,Hypertension,,,N
+10368,521057,7/11/24,Dr. Green,Knee pain,,,N
+10031,521058,1/7/23,Dr. Smith,Medication Adjustment,Mild Concussion,Ibuprofen,N
+10070,521058,3/25/23,Dr. Smith,Annual physical,Muscle Injury,Ibuprofen,N
+10196,521058,10/13/23,Dr. Smith,Knee pain,,,N
+10210,521058,11/11/23,Dr. Smith,Medication Adjustment,,,N
+10242,521058,12/31/23,Dr. Smith,Diet and Exercise Counseling,,,N
+10057,521059,2/26/23,Dr. Johnson,Hypertension,,,N
+10061,521059,3/13/23,Dr. Scott,Checkup,,,N
+10089,521059,4/15/23,Dr. Scott,Annual physical,,,N
+10408,521059,9/15/24,Dr. Scott,Knee pain,,,N
+10433,521059,10/26/24,Dr. Scott,Medication Adjustment,,,N
+10099,521060,4/24/23,Dr. Smith,Knee pain,Muscle Injury,,N
+10141,521060,7/25/23,Dr. Smith,Fever,Respiratory Illness,Salbutamol,N
+10193,521060,10/9/23,Dr. Smith,Hyperlipidemia check,,,N
+10229,521060,12/11/23,Dr. Smith,Back pain,,,N
+10267,521060,2/5/24,Dr. Smith,Fever,,,N
+10086,521061,4/11/23,Dr. Clark,Back pain,,Diclofenac,N
+10277,521061,2/24/24,Dr. Clark,Annual physical,,,N
+10309,521061,4/14/24,Dr. Clark,Annual physical,Mild Concussion,Paracetamol,N
+10339,521061,5/24/24,Dr. Clark,Checkup,,,N
+10363,521061,7/3/24,Dr. Clark,Checkup,Respiratory Illness,Salbutamol,N
+10045,521062,2/3/23,Dr. Martinez,Hypertension,,,N
+10345,521062,6/10/24,Dr. Martinez,Diabetes check,,,N
+10420,521062,10/3/24,Dr. Martinez,Diet and Exercise Counseling,,,N
+10436,521062,10/31/24,Dr. Martinez,Diabetes check,,,N
+10449,521062,11/16/24,Dr. Martinez,Fever,Allergic Reaction,Antihistamines,N
+10185,521063,9/30/23,Dr. Johnson,Knee pain,,Ibuprofen,N
+10200,521063,10/27/23,Dr. Lee,Back pain,,,N
+10237,521063,12/25/23,Dr. Johnson,Back pain,,,N
+10326,521063,5/3/24,Dr. Johnson,Headache,,,N
+10369,521063,7/14/24,Dr. Johnson,Annual physical,,,N
+10060,521064,3/9/23,Dr. Brown,Diabetes check,,,N
+10238,521064,12/25/23,Dr. Green,Back pain,,Ibuprofen,N
+10300,521064,4/4/24,Dr. Brown,Annual physical,,,N
+10421,521064,10/3/24,Dr. Brown,Hypertension,,,N
+10470,521064,12/24/24,Dr. Brown,Hypertension,,,N
+10084,521065,4/9/23,Dr. White,Hypertension,,,N
+10155,521065,8/21/23,Dr. White,Checkup,,,N
+10194,521065,10/9/23,Dr. White,Back pain,Muscle Injury,,N
+10212,521065,11/13/23,Dr. White,Diet and Exercise Counseling,Diabetes,,N
+10048,521066,2/11/23,Dr. Anderson,Back pain,,,N
+10083,521066,4/5/23,Dr. Anderson,Diabetes check,,,N
+10103,521066,5/4/23,Dr. Anderson,Medication Adjustment,,,N
+10106,521066,5/8/23,Dr. Anderson,Diet and Exercise Counseling,hyperlipidemia,,N
+10217,521066,11/26/23,Dr. Anderson,Diet and Exercise Counseling,,,N
+10430,521066,10/20/24,Dr. Anderson,Diabetes check,,,N
+10028,521067,1/3/23,Dr. Lopez,Checkup,Common Cold,Cough Syrup,N
+10033,521067,1/11/23,Dr. Lopez,Back pain,,,N
+10220,521067,11/30/23,Dr. Lopez,Fever,Bronchiolitis,Inhalation Salbutamol,N
+10293,521067,3/27/24,Dr. Lopez,Medication Adjustment,Ear Infection,Ibuprofen,N
+10450,521067,11/19/24,Dr. Lopez,Checkup,Ear Infection,Amoxicillin,N
+10132,521068,7/19/23,Dr. Wilson,Fever,,,N
+10142,521068,7/25/23,Dr. Wilson,Hypertension,,,N
+10233,521068,12/15/23,Dr. Rodriguez,Annual physical,,,N
+10404,521068,9/4/24,Dr. Wilson,Diabetes check,,,N
+10415,521068,9/27/24,Dr. Wilson,Fever,Common Cold,,N
+10143,521069,7/25/23,Dr. Smith,Headache,,,Y
+10323,521069,5/1/24,Dr. Rodriguez,Fever,,,Y
+10324,521069,5/1/24,Dr. Smith,Medication Adjustment,,,Y
+10348,521069,6/14/24,Dr. Smith,Hyperlipidemia check,Hyperlipidemia,,Y
+10379,521069,7/26/24,Dr. Smith,Diabetes Check,Diabetes,Metformin,Y
+10065,521070,3/17/23,Dr. Green,Annual physical,,,N
+10128,521070,7/4/23,Dr. Green,Medication Adjustment,,,N
+10198,521070,10/19/23,Dr. Rodriguez,Fever,,,N
+10239,521070,12/25/23,Dr. Green,Hyperlipidemia check,,,N
+10246,521070,1/11/24,Dr. Green,Back pain,Muscle Injury,,N
+10066,521071,3/17/23,Dr. White,Annual physical,,,N
+10157,521071,8/23/23,Dr. White,Knee pain,Muscle Injury,Diclofenac,N
+10289,521071,3/22/24,Dr. White,Back pain,,,N
+10387,521071,8/8/24,Dr. White,Fever,Respiratory Illness,,N
+10431,521071,10/22/24,Dr. White,Fever,,,N
+10042,521072,1/28/23,Dr. Lopez,Checkup,Bronchiolitis,Nebulized Epinephrine,N
+10062,521072,3/13/23,Dr. Lopez,Diet and Exercise Counseling,,,N
+10221,521072,11/30/23,Dr. Lopez,Checkup,Bronchiolitis,Nebulized Epinephrine,N
+10434,521072,10/26/24,Dr. Lopez,Ear pain and discomfort,Ear Infection,Amoxicillin,N
+10476,521072,12/31/24,Dr. Lopez,Sore throat and difficulty swallowing,Strep Throat,Amoxicillin,N
+10036,521073,1/17/23,Dr. Clark,Medication Adjustment,Diabetes,Insulin,N
+10090,521073,4/17/23,Dr. Clark,Annual physical,,,N
+10313,521073,4/19/24,Dr. Clark,Hypertension,,,N
+10337,521073,5/20/24,Dr. Clark,Back pain,,Acetaminophen,N
+10411,521073,9/23/24,Dr. Clark,Fever,,,N
+10131,521074,7/17/23,Dr. Scott,Hypertension,,,N
+10144,521074,7/25/23,Dr. Scott,Medication Adjustment,Hypertension,Metoprolol,N
+10148,521074,7/29/23,Dr. Scott,Medication Adjustment,,,N
+10186,521074,9/30/23,Dr. Scott,Diet and Exercise Counseling,,,N
+10247,521074,1/13/24,Dr. Scott,Fever,Allergic Reaction,Antihistamines,N
+10325,521074,5/1/24,Dr. Scott,Headache,Common Cold,,N
+10366,521074,7/7/24,Dr. Scott,Medication Adjustment,,,N
+10370,521074,7/14/24,Dr. Scott,Hypertension,,,N
+10407,521075,9/8/24,Dr. Green,Headache,,,N
+10471,521075,12/24/24,Dr. Green,Knee pain,Muscle Injury,Ibuprofen,N
+10093,521076,4/20/23,Dr. Smith,Fever,,,N
+10145,521076,7/25/23,Dr. Smith,Knee pain,,,N
+10158,521076,8/23/23,Dr. Smith,Annual physical,,,N
+10032,521077,1/9/23,Dr. Johnson,Annual physical,,,N
+10149,521077,7/29/23,Dr. Johnson,Hypertension,Respiratory Illness,Salbutamol,N
+10203,521077,11/3/23,Dr. Johnson,Medication Adjustment,,,N
+10259,521077,1/28/24,Dr. Johnson,Medication Adjustment,,,N
+10355,521077,6/21/24,Dr. Brown,Hyperlipidemia check,Hyperlipidemia,,N
+10416,521077,9/27/24,Dr. Johnson,Checkup,Muscle Injury,Diclofenac,N
+10458,521077,12/12/24,Dr. Johnson,Fever,Allergic Reaction,Epinephrine,N
+10129,521078,7/10/23,Dr. Lee,Hyperlipidemia check,hyperlipidemia,Statin,N
+10159,521078,8/23/23,Dr. Lee,Fever,,,N
+10167,521078,8/30/23,Dr. Lee,Back pain,,,N
+10287,521078,3/10/24,Dr. Lee,Diabetes check,Respiratory Illness,Fluticasone,N
+10298,521078,3/31/24,Dr. Lee,Diabetes check,,,N
+10063,521079,3/13/23,Dr. Martinez,Hypertension,Allergic Reaction,Antihistamines,N
+10124,521079,6/17/23,Dr. Martinez,Diabetes check,,,N
+10187,521079,9/30/23,Dr. Martinez,Diet and Exercise Counseling,,,N
+10213,521079,11/13/23,Dr. Martinez,Knee pain,Muscle Injury,,N
+10256,521079,1/26/24,Dr. Martinez,Medication Adjustment,,,N
+10264,521079,2/3/24,Dr. Martinez,Hypertension,,,N
+10353,521079,6/16/24,Dr. Scott,Checkup,Muscle Injury,Diclofenac,N
+10365,521079,7/5/24,Dr. Martinez,Medication Adjustment,,,N
+10347,521080,6/12/24,Dr. Scott,Fever,Respiratory Illness,,N
+10392,521080,8/14/24,Dr. Scott,Diabetes check,,,N
+10095,521081,4/22/23,Dr. Brown,Checkup,,,N
+10160,521081,8/23/23,Dr. Brown,Fever,Respiratory Illness,Fluticasone,N
+10224,521081,12/2/23,Dr. Brown,Annual physical,,,N
+10283,521081,3/6/24,Dr. Brown,Annual physical,,,N
+10284,521081,3/8/24,Dr. Brown,Back pain,Muscle Injury,Diclofenac,N
+10029,521082,1/3/23,Dr. Lopez,Stomach pain and vomiting,Gastroenteritis,Rehydration Salts,N
+10044,521082,1/30/23,Dr. Lopez,Medication Adjustment,Bronchiolitis,Inhalation Salbutamol,N
+10125,521082,6/17/23,Dr. Lopez,Ear pain and discomfort,Ear Infection,Ibuprofen,N
+10169,521082,9/7/23,Dr. Lopez,Stomach pain and vomiting,Gastroenteritis,Loperamide,N
+10354,521082,6/18/24,Dr. Lopez,Sore throat and difficulty swallowing,Strep Throat,Amoxicillin,N
+10087,521083,4/13/23,Dr. Scott,Hyperlipidemia check,,,N
+10179,521083,9/28/23,Dr. Scott,Hypertension,,,N
+10225,521083,12/2/23,Dr. Scott,Fever,Allergic Reaction,Antihistamines,N
+10438,521083,11/6/24,Dr. Scott,Diabetes check,Respiratory Illness,Salbutamol,N
+10472,521083,12/24/24,Dr. Scott,Diabetes check,,,N
+10030,521084,1/3/23,Dr. Martinez,Hyperlipidemia check,,,N
+10071,521084,3/28/23,Dr. Lee,Medication Adjustment,,,N
+10168,521084,8/30/23,Dr. Lee,Medication Adjustment,,,N
+10176,521084,9/24/23,Dr. Lee,Annual physical,,,N
+10301,521084,4/4/24,Dr. Lee,Diabetes check,,,N
+10046,521085,2/5/23,Dr. White,Diabetes check,Diabetes,,N
+10096,521085,4/22/23,Dr. Rodriguez,Diabetes check,Diabetes,,N
+10097,521085,4/22/23,Dr. White,Fever,Respiratory Illness,Salbutamol,N
+10112,521085,5/11/23,Dr. White,Knee pain,,,N
+10117,521085,6/5/23,Dr. White,Headache,,,N
+10152,521085,8/9/23,Dr. White,Fever,Respiratory Illness,,N
+10161,521085,8/23/23,Dr. White,Back pain,,,N
+10245,521085,1/9/24,Dr. White,Hyperlipidemia check,,,N
+10151,521086,8/5/23,Dr. Clark,Annual physical,,,N
+10306,521086,4/10/24,Dr. Clark,Knee pain,Muscle Injury,Acetaminophen,N
+10389,521086,8/10/24,Dr. Clark,Annual physical,,,N
+10464,521086,12/18/24,Dr. Clark,Fever,,,N
+10307,521087,4/12/24,Dr. Green,Headache,Migraine,,N
+10319,521087,4/27/24,Dr. Green,Back pain,Muscle Injury,Diclofenac,N
+10360,521087,6/27/24,Dr. Green,Fever,,,N
+10091,521088,4/17/23,Dr. Anderson,Diet and Exercise Counseling,Hypertension,,N
+10098,521088,4/22/23,Dr. Anderson,Medication Adjustment,,,N
+10310,521088,4/14/24,Dr. Anderson,Fever,,,N
+10335,521088,5/18/24,Dr. Anderson,Diet and Exercise Counseling,,,N
+10428,521088,10/10/24,Dr. Green,Hyperlipidemia check,,,N
+10459,521088,12/12/24,Dr. Green,Annual physical,,,N
+10101,521089,4/30/23,Dr. Rodriguez,Diabetes check,,,N
+10172,521089,9/20/23,Dr. Lopez,Headache,Migraine,Ibuprofen,N
+10265,521089,2/3/24,Dr. Lopez,Headache,,,N
+10349,521089,6/14/24,Dr. Lopez,Annual physical,,,N
+10133,521090,7/19/23,Dr. Wilson,Knee pain,,,N
+10180,521090,9/28/23,Dr. Wilson,Diabetes check,,,N
+10299,521090,3/31/24,Dr. Wilson,Diabetes check,Diabetes,,N
+10314,521090,4/19/24,Dr. Wilson,Knee pain,,,N
+10439,521090,11/6/24,Dr. Wilson,Diet and Exercise Counseling,,,N
+10077,521091,4/1/23,Dr. Lee,Fever,Respiratory Illness,Salbutamol,N
+10094,521091,4/20/23,Dr. Clark,Diet and Exercise Counseling,,,N
+10156,521091,8/21/23,Dr. Lee,Annual physical,,,N
+10241,521091,12/29/23,Dr. Lee,Annual physical,Hypothyroid,Levoxyl,N
+10305,521091,4/8/24,Dr. Lee,Knee pain,,,N
+10146,521092,7/25/23,Dr. Johnson,Hyperlipidemia check,,,Y
+10226,521092,12/4/23,Dr. Anderson,Fever,,,Y
+10240,521092,12/25/23,Dr. Johnson,Back pain,,,Y
+10320,521092,4/27/24,Dr. Johnson,Diabetes check,Diabetes,Insulin,Y
+10388,521092,8/8/24,Dr. Johnson,Diabetes check,Diabetes,Metformin,Y
