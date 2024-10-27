@@ -6,8 +6,6 @@ This project demonstrates the application of SQL for analyzing healthcare datase
 
 [Download the SQL Healthcare Analysis PDF](https://github.com/craig2050/SQL_HealthcareEHR_DataAnalytics/blob/main/Report/SQL_Healthcare_Analysis.pdf)
 
-https://github.com/craig2050/SQL_HealthcareEHR_DataAnalytics/blob/main/Report/SQL_Healthcare_Analysis.pdf
-
 ## Key Features
 - **Risk Stratification for Diabetes**  
   Stratified patients into high, medium, and low-risk groups based on glucose levels and smoking habits, enabling targeted preventive measures for high-risk patients.
