@@ -4,6 +4,8 @@
 ## Overview
 This project demonstrates the application of SQL for analyzing healthcare datasets with a focus on optimizing patient care and operational workflows. The analyses provide insights into various areas, including risk stratification for chronic diseases, cohort analysis for chronic disease management, and workflow optimization in healthcare settings. The results aim to support healthcare professionals in making data-driven decisions that enhance patient outcomes and improve efficiency.
 
+[Download the SQL Healthcare Analysis PDF](https://github.com/yourusername/repositoryname/raw/main/SQL_HealthcareEHR_DataAnalytics/Report/SQL_Healthcare_Analysis.pdf)
+
 ## Key Features
 - **Risk Stratification for Diabetes**  
   Stratified patients into high, medium, and low-risk groups based on glucose levels and smoking habits, enabling targeted preventive measures for high-risk patients.
